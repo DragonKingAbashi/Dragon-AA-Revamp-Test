@@ -1,0 +1,2 @@
+C:\Users\Lewie\Documents\DragonAARevamp\DragonAARevamp\obj\Debug\DragonAARevamp.csproj.AssemblyReference.cache
+C:\Users\Lewie\Documents\DragonAARevamp\DragonAARevamp\obj\Debug\DragonAARevamp.csproj.CoreCompileInputs.cache
